@@ -3,6 +3,7 @@
     <h1>Nuxt 3 - Ready for Deployment</h1>
     <p>fist test after restructure !</p>
     <p>second test after restructure !</p>
+    <p>final test after restructure !</p>
   </div>
   <button class="button">Button</button>
 </template>
