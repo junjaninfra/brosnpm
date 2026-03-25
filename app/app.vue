@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Nuxt 3 - Ready for Deployment</h1>
+    <p>Local chages & CONFLICT test</p>
   </div>
   <button class="button">Button</button>
 </template>
