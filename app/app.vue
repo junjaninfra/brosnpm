@@ -1,8 +1,6 @@
 <template>
   <div>
     <h1>Nuxt 3 - Ready for Deployment</h1>
-    <p>this paragraph show if code success deploy</p>
-    <p>test create brosnpm-build</p>
   </div>
   <button class="button">Button</button>
 </template>
