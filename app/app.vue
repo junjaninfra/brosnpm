@@ -4,6 +4,7 @@
     <p>fist test after restructure !</p>
     <p>second test after restructure !</p>
     <p>final test after restructure !</p>
+    <p>again test after restructure !</p>
   </div>
   <button class="button">Button</button>
 </template>
